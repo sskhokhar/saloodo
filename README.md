@@ -7,6 +7,12 @@ Seller Portal: https://seller-sand.vercel.app/
 Biker Portal: https://biker-sigma.vercel.app/
 Backend: https://saloodo-backend.herokuapp.com/api
 ```
+## Local
+To run the project locally run following commands
+```yarn install```
+```npx nx run biker-portal:serve --port=4300```
+```npx nx run seller-portal:serve --port=4200```
+```npx nx run backend:serve --port=3333```
 ### Key Points
 
 - I used Nx monorepo management to manage 2 portals (seller, biker) and backend
@@ -28,4 +34,5 @@ Routes authorization is not implemented yet
 
 #### Frameworks Used
 Backend: NestJs
+
 Frontend: NextJs
