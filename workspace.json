@@ -1,6 +1,9 @@
 {
   "version": 2,
   "projects": {
-    "backend": "apps/backend"
+    "backend": "apps/backend",
+    "biker-portal": "apps/biker-portal",
+    "seller-portal": "apps/seller-portal",
+    "shared-components": "libs/shared-components"
   }
 }
