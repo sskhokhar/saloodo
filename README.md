@@ -22,9 +22,9 @@ Routes authorization is not implemented yet
 
 #### Seed Accounts
 > email: seller<1-5>@test.com (seller1@test.com, seller2@test.com...)
-pass: 12345
+> pass: 12345
 > email: biker<1-5>@test.com (biker1@test.com, biker2@test.com...)
-pass: 12345
+> pass: 12345
 
 #### Frameworks Used
 Backend: NestJs
