@@ -3,7 +3,7 @@
 ## Deployment
 The project has been deployed on Vercel (frontends) & Heroku (backend) using Github integration
 ```
-Seller Portal: https://seller-sand.vercel.app/
+Seller Portal: https://seller-4ozrd8aaz-sskhokhar.vercel.app/
 Biker Portal: https://biker-sigma.vercel.app/
 Backend: https://saloodo-backend.herokuapp.com/api
 ```
